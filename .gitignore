@@ -1,0 +1,22 @@
+# Java class files
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+
+
+.gradle
+build/
+
+
+# Eclipse project files
+.classpath
+.project
+
+.idea/libraries
+
+
+jobResults/
